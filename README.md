@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 自我介绍
 <!--
 **PURSUE2/PURSUE2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 姓名：
+  - 李业
+- 兴趣爱好：
+  - 阅读、运动
+- 技术：
+  - java
+- Github：
+  - https://github.com/PURSUE2/
